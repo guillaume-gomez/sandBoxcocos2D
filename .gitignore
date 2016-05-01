@@ -1,0 +1,7 @@
+tutorial/bin/*
+tutorial/coscos2d/*
+tutorial/proj.android
+tutorial/proj.ios_mac
+tutorial/proj.win10
+tutorial/proj.win32
+tutorial/proj.win8.1-universal
