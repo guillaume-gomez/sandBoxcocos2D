@@ -1,0 +1,10 @@
+bin/
+cocos2d/
+linux-build/
+proj.linux/
+proj.android/
+proj.android-studio/
+proj.ios_mac/
+proj.win10/
+proj.win32/
+proj.win8.1-universal/
